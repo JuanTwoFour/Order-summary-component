@@ -1,6 +1,6 @@
 @media (min-width: 768px) {
   body {
-    background-image: url('./images/pattern-background-desktop.svg');
+    background-image: url('/images/pattern-background-desktop.svg');
     background-repeat: no-repeat;
     background-position-x: center;
     margin: 0;
@@ -10,7 +10,7 @@
 
 @media (max-width: 425px) {
   body{
-    background-image: url('./images/pattern-background-mobile.svg');
+    background-image: url('/images/pattern-background-mobile.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;
